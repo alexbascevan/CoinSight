@@ -1,0 +1,1 @@
+// small icon for sorting columns in CoinList

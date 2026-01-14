@@ -1,0 +1,1 @@
+// Reusable error display component for API failures

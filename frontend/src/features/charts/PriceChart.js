@@ -1,0 +1,1 @@
+// Line chart showing 7-day price trend for a selected coin using Chart.js or Recharts

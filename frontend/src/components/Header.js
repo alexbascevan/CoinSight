@@ -1,0 +1,1 @@
+// Displays app title, navigation, and dark/light mode toggle

@@ -1,0 +1,1 @@
+// Individual row component displaying coin info: name, symbol, price, market cap, 24h change, volume

@@ -1,0 +1,1 @@
+// text input to filter/search coins by name or symbol

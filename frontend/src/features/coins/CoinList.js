@@ -1,0 +1,1 @@
+// Main table container for listing top cryptocurrencies
