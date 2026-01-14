@@ -1,1 +1,0 @@
-// Provides global theme state (dark/light) and toggle function
